@@ -39,7 +39,7 @@ class Circle extends Shape{
 	}
 }
 
-class AbstractAreas {
+public class AbstractAreas {
 public static void main(String args[]) {
 
 Rectangle r = new Rectangle(9, 5);
